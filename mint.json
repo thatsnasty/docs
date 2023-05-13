@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Documentation Starter Kit",
+  "name": "jm i.t. docs",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
@@ -14,7 +14,7 @@
   "topbarLinks": [
     {
       "name": "Documentation",
-      "url": "https://mintlify.com/docs"
+      "url": "https://docs.jmit.com.au"
     }
   ],
   "topbarCtaButton": {
